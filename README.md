@@ -1,1 +1,1 @@
-# Mini-Banking-Wallet-API
+Banking-Wallet
